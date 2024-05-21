@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Yuri. And this is my GitPage.
+
 <!--
 **Bernard-Swift/Bernard-Swift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
-## Hi there 👋
+## Доброго утра, Good morning & Buenos Dias
 
-My name is Yuri. And this is my GitPage.
+Меня зовут Юрий, и я инженер по тестированию. Проживаю в городе-миллионике, увлекаюсь видеоиграми и просто люблю проводить время с людьми.
 
 <!--
 **Bernard-Swift/Bernard-Swift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

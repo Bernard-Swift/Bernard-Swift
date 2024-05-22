@@ -12,6 +12,8 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Bernard-Swift)
 
+<!-- Изменение графиков ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
+
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>

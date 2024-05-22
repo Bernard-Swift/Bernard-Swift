@@ -79,8 +79,10 @@
 
 <br>
 
-<!--## 🎒 Образование-->
-<!-- [<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en.png) -->
+## 🎒 Образование
+[<img src="/Certificate%20(rus).jpg" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/Certificate%20(rus).jpg)
+[<img src="/Certificate%20(eng).jpg" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/Certificate%20(eng).jpg)
+<!--Изначальные сертификаты, надо обновить-->
 
 <br>
 <br>

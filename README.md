@@ -78,7 +78,7 @@
 <br>
 
 ## 🎒 Образование
-<!--[<img src="/diploma.jpg" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Bernard-Swift/Bernard-Swift/main/diploma.jpg)-->
+<!-- [<img src="/diploma.jpg" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Bernard-Swift/Bernard-Swift/main/diploma.jpg) -->
 <!--Дипломы, надо добавить-->
 
 <br>

@@ -74,7 +74,6 @@
 ## 🪴 Практика и стажировка
 [<img src="/Certificate%20(rus).jpg" width="280px" hspace="10px" alt="Сертификат QA Studio (rus)»">](https://raw.githubusercontent.com/Bernard-Swift/Bernard-Swift/main/Certificate%20(rus).jpg)
 [<img src="/Certificate%20(eng).jpg" width="280px" hspace="10px" alt="Сертификат QA Studio (eng)">](https://raw.githubusercontent.com/Bernard-Swift/Bernard-Swift/main/Certificate%20(eng).jpg)
-[<img src="/certificate-brunoyam.jpg" width="280px" hspace="10px" alt="Сертификат Бруноям">](https://raw.githubusercontent.com/Bernard-Swift/Bernard-Swift/main/certificate-brunoyam.jpg)
 <br>
 
 ## 🎒 Образование
